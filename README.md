@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrijit</h1>
-<h3 align="center">Software Engineer from India</h3>
+<h3 align="center">A passionate Frontend Developer from india</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrijit01" alt="shrijit01" /></a> </p>
 
