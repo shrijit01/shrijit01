@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shrijit01)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrijit01)](https://github.com/anuraghazra/github-readme-stats)
